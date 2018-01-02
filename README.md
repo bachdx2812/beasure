@@ -27,6 +27,13 @@ end
 Output:
 
 ~~~~
-{"2.4.1":{"gc":"enabled","time":3.25,"gc_count":72,"memory":"2973 MB"}}
+*******************************************************
+Ruby Version: 2.4.1
+Execution Time: 0.0
+Garbage Collection Infos:
+  Usage: enabled
+  Counter: 1
+  Memory: 0 MB
+*******************************************************
 => nil
 ~~~~
